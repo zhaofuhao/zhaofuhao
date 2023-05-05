@@ -4,7 +4,7 @@
 <table> 爱好:写文章、看历史书、研究技术、做美食吃美食、挣钱</table>
 <table> 🏡作品：springboot实现多租户系统</table>
 <table>🌱 半山腰风景很美、我还是更想到山顶去看看。</table>
-<table> 👯 个人博客：我记录技术笔记的地方： <a href=" https://nwjshm.cn/"> 博客地址</a> </table>
+<table> 👯 个人博客：我记录技术笔记的地方： <a href="https://nwjshm.cn/"> 个人博客</a> </table>
 <table> 👬 扣扣：1767966703</table>
 <table> 💬 微信： z88556648  </table>
 <table> 💬 工作邮箱mail：zhaofuhao0409@163.com / zhaofuhao0409@gmail.com </table>    
